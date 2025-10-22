@@ -86,6 +86,8 @@ The **`LandmarkDataGenerator`** (a subclass of `tf.keras.utils.Sequence`) is the
 
 ## 5. Results and Insights
 
+![Prediction vs Actual Plot](image.png)
+
 ### Model Performance Evaluation
 
 The script outputs standard metrics based on the test set:
